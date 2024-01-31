@@ -2,7 +2,7 @@
 
 ## CREAR UNA PÁGINA DE HOMENAJE
 
-**Objectivo:** Crear una página que sea similar a https://tribute-page.freecodecamp.rocks
+**Objetivo:** Crear una página que sea similar a https://tribute-page.freecodecamp.rocks
 
 ## HISTORIA DE USUARIO
 

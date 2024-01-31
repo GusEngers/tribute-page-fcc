@@ -1,0 +1,61 @@
+:root {
+  --background-pt1: #0e0202;
+  --background-pt2: #321b1b;
+  --background-submit: green;
+  --text-pt1: #db1010;
+  --text-pt2: #d5d0d0;
+  --font-family: monospace;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: var(--background-pt1);
+  font-family: var(--font-family);
+  color: var(--text-pt1);
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+}
+
+#img-div {
+  width: 90%;
+  max-width: 1180px;
+  min-width: 300px;
+  background-color: var(--background-pt2);
+  margin: 0 auto;
+  padding: 50px;
+}
+
+#img-div img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+}
+
+#img-caption {
+  color: var(--text-pt2);
+}
+
+#tribute-info {
+  width: 90%;
+  max-width: 1180px;
+  min-width: 300px;
+  margin: 0 auto;
+}
+
+#tribute-info p {
+  color: var(--text-pt2);
+}
+
+#tribute-info a {
+  padding: 10px;
+  color: var(--text-pt1);
+}
+
+#tribute-info a:hover {
+  color: var(--text-pt2);
+}
